@@ -5,15 +5,15 @@ public class main {
     {
         System.out.println("Hello");
     }
-    public static void Client()
-    {
-        String name;
-        int age;
-    }
-    public static void GetData(String name, int age)
-    {
-        name="Alex";
-        age=21;
-        System.out.println(name+age);
-    }
+   public static void Reg()
+   {
+       int id;
+       String name;
+   }
+   public static void GetReg(int id, String name)
+   {
+           id=1;
+           name="Alex";
+           System.out.println(id+name);
+   }
 }
