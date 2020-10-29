@@ -14,7 +14,7 @@ public class main {
     public static void GetData(String name, int age)
     {
         name="Alex";
-        age=21;
+        age=212;
         System.out.println(name+age);
     }
     public static void Reg()
