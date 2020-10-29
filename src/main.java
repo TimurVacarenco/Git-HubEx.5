@@ -25,7 +25,7 @@ public class main {
     public static void GetReg(int id, String name)
     {
         id=1;
-        name="Alex";
+        name="Alex1";
         System.out.println(id+name);
     }
 }
