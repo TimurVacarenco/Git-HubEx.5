@@ -3,7 +3,6 @@ public class main {
     {
         System.out.println("Hello everybody");
     }
-<<<<<<< HEAD
    public static void Reg()
    {
        int id;
@@ -16,7 +15,7 @@ public class main {
            int regcode = 1;
            System.out.println(id+name+regcode);
    }
-=======
+
     /*<<<<<<< HEAD*/
     public static void Client()
     {
@@ -31,16 +30,4 @@ public class main {
         System.out.println(name + age+address);
 
     }
-    public static void Reg()
-    {
-        int id;
-        String name;
-    }
-    public static void GetReg(int id, String name)
-    {
-        id=1;
-        name="Alex";
-        System.out.println(id+name);
-    }
->>>>>>> 6758cb095154bb6e2063ce0e0927abba8ba26db5
 }
