@@ -5,7 +5,7 @@ public class main {
     {
         System.out.println("Hello");
     }
-<<<<<<< HEAD
+    /*<<<<<<< HEAD*/
     public static void Client()
     {
         String name;
