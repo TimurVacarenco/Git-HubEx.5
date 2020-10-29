@@ -1,5 +1,3 @@
-import java.sql.ClientInfoStatus;
-
 public class main {
     public static void main (String[] args)
     {
@@ -14,6 +12,7 @@ public class main {
    {
            id=1;
            name="Alex";
-           System.out.println(id+name);
+           int regcode = 1;
+           System.out.println(id+name+regcode);
    }
 }
