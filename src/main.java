@@ -10,10 +10,9 @@ public class main {
         String name;
         int age;
     }
-    public static void GetData(String name, int age)
-    {
-        name="Alex";
-        age=21;
-        System.out.println(name+age);
+    public static void GetData(String name, int age) {
+        name = "Alex";
+        age = 21;
+        System.out.println(name + age);
     }
 }
