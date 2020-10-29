@@ -22,12 +22,14 @@ public class main {
     {
         String name;
         int age;
+        String address;
     }
-    public static void GetData(String name, int age)
-    {
-        name="Alex";
-        age=21;
-        System.out.println(name+age);
+    public static void GetData(String name, int age, String address) {
+        name = "Alex";
+        age = 21;
+        address="Alba-Iulia 194/1";
+        System.out.println(name + age+address);
+
     }
     public static void Reg()
     {
